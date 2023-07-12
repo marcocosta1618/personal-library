@@ -1,3 +1,11 @@
-# Personal Library
+# Quality Assurance Projects
+## Personal Library
 
-This is the boilerplate for the Personal Library project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library
+A personal library API. Third Quality Assurance project in the freeCodeCamp curriculum.
+
+---
+
+This project is hosted on [Replit](https://personal-library.marcocosta1618.repl.co).
+
+![EXPRESS](https://img.shields.io/badge/Express.js-fff.svg?&logo=Express&logoColor=000)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?&logo=javascript&logoColor=black)&nbsp;
